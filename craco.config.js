@@ -1,5 +1,5 @@
 // craco.config.js
-// Create React App Configuration Override."
+// Create React App Configuration Override (CRACO)."
 // CRACO allows you to customize the
 // configuration of Create React App (CRA) without ejecting
 // from it. It's especially useful when you want to modify
