@@ -28,10 +28,11 @@ const NavButton = ({ title, customFunction, icon, color, dotColor }) => (
 
 const Navbar = () => {
   const {
-    activeMenu,
+    // activeMenu,
+
+    // setIsClicked,
     setActiveMenu,
     isClicked,
-    setIsClicked,
     handleClick,
     screenSize,
     setScreenSize,
